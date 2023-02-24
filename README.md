@@ -1,8 +1,8 @@
 ### Hello there 👋
 Eu sou Alef dos Santos Rocha
-- 🔭 
-- 🌱 
-- 🤝 
+- 🔭 Desenvolvedor Web Junior
+- 🌱 Estudando Typescript e node.js
+- 🤝 Meta Ser o melhor de hj e o melhor de amanhã
 
 <div><br/>
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=serphurus&show_icons=true&theme=dracula" />
