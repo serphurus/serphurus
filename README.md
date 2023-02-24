@@ -1,12 +1,14 @@
 ### Hello there 👋
+<div style="font-size:3rem">
 Eu sou Alef dos Santos Rocha
+  <div/>
 - 🔭 Desenvolvedor Web Junior
 - 🌱 Estudando Typescript e node.js
 - 🤝 Meta Ser o melhor de hj e o melhor de amanhã
 
-<div><br/>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=serphurus&show_icons=true&theme=dracula" />
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serphurus&layout=compact&theme=dracula" />
+<div style="display: inline-block"><br/>
+<img height="160rem" src="https://github-readme-stats.vercel.app/api?username=serphurus&show_icons=true&theme=dracula" />
+<img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serphurus&layout=compact&theme=dracula" />
 <div/>
   <div><br/>
 <img 
