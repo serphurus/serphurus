@@ -1,10 +1,12 @@
 ### Hello there 👋
-<div style="font-size:3rem">
-Eu sou Alef dos Santos Rocha
+<div>
+<h2 style="font-size:3rem">Eu sou Alef dos Santos Rocha<h2/>
   <div/>
+  <div>
 - 🔭 Desenvolvedor Web Junior
 - 🌱 Estudando Typescript e node.js
 - 🤝 Meta Ser o melhor de hj e o melhor de amanhã
+    <div/>
 
 <div style="display: inline-block"><br/>
 <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=serphurus&show_icons=true&theme=dracula" />
